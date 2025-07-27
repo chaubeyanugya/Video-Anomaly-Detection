@@ -1,7 +1,15 @@
 # Video Anomaly Detection  
 
 Video Anomaly Detection is all about spotting weird or unexpected stuff in video footage—like a security camera catching someone sneaking around or a glitch in a live stream. This project uses Random Forest, a machine learning algorithm, to analyze video frames and flag anything that doesn’t fit the norm, with Pandas handling the data crunching. Think of it as giving your video feed a smart pair of eyes! Built with Python.  
+---
+## **Created by**
 
+1. Abhay Chaudhary - 23BAI10760
+2. Rananjay Singh Chauhan - 23BAI10080
+3. Anugya Chaubey - 23BAI10550
+4. Harsh Damodar Pandit - 23BAI10772
+5. Tushar Kumar Tiwari - 23BAI10551
+6. Nidhi Joshi - 23BAI10551
 ---
 
 ## **Features**  
@@ -68,12 +76,4 @@ Check out the working demo below:
 ---
 
 
-## **Created by**
 
-1. Abhay Chaudhary - 23BAI10760
-   (uploaded on his GitHub as well. Link: https://github.com/LexViper/video-anomaly-detection)
-2. Rananjay Singh Chauhan - 23BAI10080 (me)
-3. Anugya Chaubey - 23BAI10550
-4. Harsh Damodar Pandit - 23BAI10772
-5. Tushar Kumar Tiwari - 23BAI10551
-6. Nidhi Joshi - 23BAI10551
