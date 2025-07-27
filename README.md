@@ -1,10 +1,10 @@
-# 🎥 Video Anomaly Detection  
+# Video Anomaly Detection  
 
 Video Anomaly Detection is all about spotting weird or unexpected stuff in video footage—like a security camera catching someone sneaking around or a glitch in a live stream. This project uses Random Forest, a machine learning algorithm, to analyze video frames and flag anything that doesn’t fit the norm, with Pandas handling the data crunching. Think of it as giving your video feed a smart pair of eyes! Built with Python.  
 
 ---
 
-## 🚀 **Features**  
+## **Features**  
 - Analyze video streams to spot anomalies in real-time.  
 - Leverage Random Forest for accurate pattern detection.  
 - Process and visualize data with Pandas.  
@@ -12,7 +12,7 @@ Video Anomaly Detection is all about spotting weird or unexpected stuff in video
 
 ---
 
-## 🛠️ **Setup Instructions**  
+## **Setup Instructions**  
 
 1. **Clone the repository:**  
    ```bash
@@ -33,7 +33,7 @@ Video Anomaly Detection is all about spotting weird or unexpected stuff in video
 
 ---
 
-## 💻 **How to Run**  
+## **How to Run**  
 1. Start the anomaly detection script:  
    ```bash
    python anomaly_detection.py
@@ -42,7 +42,7 @@ Video Anomaly Detection is all about spotting weird or unexpected stuff in video
 
 ---
 
-## ✨ **How to Use**  
+## **How to Use**  
 
 ### **Detecting Anomalies:**  
 - Input a video file or stream URL to the script.  
@@ -51,14 +51,14 @@ Video Anomaly Detection is all about spotting weird or unexpected stuff in video
 
 ---
 
-## 🌐 **Demo**  
+##  **Demo**  
 
 Check out the working demo below:  
 ![Demo Screenshot](https://github.com/LexViper/Video-Anomaly-Detection/blob/main/Output/output.png)  
 
 ---
 
-## 📂 **Project Structure**  
+## **Project Structure**  
 - `anomaly_detection.py`: Main script for running the detection system.  
 - `requirements.txt`: Python dependencies (e.g., pandas, scikit-learn).  
 - `README.md`: Project documentation.  
@@ -68,7 +68,7 @@ Check out the working demo below:
 ---
 
 
-## 📧 **Created by**
+## **Created by**
 
 1. Abhay Chaudhary - 23BAI10760
    (uploaded on his GitHub as well. Link: https://github.com/LexViper/video-anomaly-detection)
